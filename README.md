@@ -13,7 +13,11 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=rakuzai&style=flat-square&color=blue" alt=""/>
+
+<div>
+  <img src="https://komarev.com/ghpvc/?username=rakuzai&style=flat-square&color=blue" alt=""/>
+</div>
+
 ### Hi there 👋
 
 
