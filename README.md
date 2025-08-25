@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakuzai&label=Profile%20views&color=0e75b6&style=flat" alt="rakuzai" /> </p>
 
-- 🌱 I’m currently learning **Computer Vision and Natural Language Processing**
+- 🌱 I’m currently learning **Deep Learning and AI/ML Ops**
 
 - 👨‍💻 All of my projects are available at [agungwidiyanto.tech](agungwidiyanto.tech)
 
